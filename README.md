@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and React Native**
 
-- 👨‍💻 All of my projects are available at [http://rahulkumar703.vercel.app/](http://rahulkumar703.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.rahulsweb.in/](https://www.rahulsweb.in/)
 
 - 💬 Ask me about **React and Web Development**
 
