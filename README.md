@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A 2nd Year Computer Science B.Tech. Student | React Developer</h3>
+<h3 align="center">A 3rd Year Computer Science B.Tech. Student | React Developer</h3>
 
-- 🔭 I have recently completed 1 month internship at ATPLC [ATPLC Website](atplc.in)
+- 🔭 I have completed 2 month internship at ATPLC [ATPLC Website](atplc.in)
 
 - 🌱 I’m currently learning **MERN Stack and React Native**
 
 - 👨‍💻 All of my projects are available at [www.rahulsweb.in](https://www.rahulsweb.in)
 
-- 💬 Ask me about **React and Web Development**
+- 💬 Ask me about **React Js, Next Js and Web Development**
 
 - 📫 How to reach me **rahulkumar703@outlook.com**
 
