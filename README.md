@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A 3rd Year Computer Science B.Tech. Student | React Developer</h3>
+<h3 align="center">A 3rd Year Computer Science B.Tech. Student | MERN Stack Developer</h3>
 
 - 🔭 I have completed 2 month internship at ATPLC [ATPLC Website](atplc.in)
 
