@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A 3rd Year Computer Science B.Tech. Student | MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
-- 🔭 I have completed 2 month internship at ATPLC [ATPLC Website](atplc.in)
+- 🔭 I have multiple internship experiences in react and nextjs.
 
 - 🌱 I’m currently learning **MERN Stack and React Native**
 
